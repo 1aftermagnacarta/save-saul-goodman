@@ -1,0 +1,26 @@
+:root {
+    --red: #ff7171;
+    --white: #FFFFFF;
+    --black: #000000;
+}
+
+.goodman {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fontColor);
+  font-family: helvetica;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
